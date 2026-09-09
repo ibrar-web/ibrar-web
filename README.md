@@ -219,7 +219,7 @@ class FullStackDeveloper:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrar-web&custom_title=Ibrar's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&title_color=00D9FF" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrar-web&custom_title=Ibrar%27s%20Contribution%20Graph&hide_border=true&theme=github-compact" width="98%"/>
 
 </div>
 
@@ -229,8 +229,8 @@ class FullStackDeveloper:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ibrar-web&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrar-web&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ibrar-web&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=86400" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrar-web&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" height="180"/>
 
 </div>
 
@@ -240,7 +240,7 @@ class FullStackDeveloper:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ibrar-web&theme=radical&no-frame=true&margin-w=5&column=7&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="98%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ibrar-web&theme=radical&no-frame=true&margin-w=5&column=7" width="98%"/>
 
 </div>
 

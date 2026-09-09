@@ -1,16 +1,69 @@
-## Hi there 👋
+````markdown
+# Hi, I'm Ibrar Hussain 👋
 
-<!--
-**ibrar-web/ibrar-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class FullStackDeveloper:
+    def __init__(self):
+        self.name = "Ibrar Hussain"
+        self.role = "Full Stack Developer"
+        self.focus = "Web, Mobile, Cloud & AI"
 
-Here are some ideas to get you started:
+    def tech_stack(self):
+        return {
+            "languages": [
+                "JavaScript",
+                "TypeScript",
+                "Python"
+            ],
+            "frontend": [
+                "React",
+                "Next.js",
+                "React Native"
+            ],
+            "backend": [
+                "Node.js",
+                "Express",
+                "NestJS",
+                "FastAPI"
+            ],
+            "databases": [
+                "PostgreSQL",
+                "MongoDB",
+                "Redis",
+                "Vector Databases"
+            ],
+            "cloud": [
+                "AWS",
+                "EC2",
+                "EKS",
+                "S3",
+                "GCP",
+                "Cloud Run",
+                "Vertex AI",
+                "BigQuery"
+            ],
+            "ai": [
+                "Generative AI",
+                "LLM Applications",
+                "RAG",
+                "AI Agents",
+                "Agentic Systems"
+            ],
+            "tools": [
+                "Docker",
+                "Git",
+                "GitHub",
+                "CI/CD"
+            ]
+        }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def current_focus(self):
+        return [
+            "Full Stack Development",
+            "AI & Agentic Applications",
+            "Cloud & Scalable Systems"
+        ]
+```
+
+Full Stack Developer building scalable web, mobile, backend, cloud, and AI-powered applications.
+````
